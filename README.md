@@ -1,1 +1,2 @@
-New project set up. Good Luck!
+pages.dev
+Project has been released.
