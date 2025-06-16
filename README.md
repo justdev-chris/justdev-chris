@@ -27,7 +27,7 @@ Welcome to my little corner of GitHub! I’m all about making cool, quirky proje
 - **[Cat Clicker: PURRstige Edition™](https://github.com/justdev-chris/Ultimate-Cat-Clicker)**  
   A pixel-art idle clicker loaded with adventure, monsters, upgrades, and some seriously quirky lore.  
 
-- **[VibeCheck.ai](https://github.com/justdev-chris/Pixel-ArcadeV5)**  
+- **[Pixel Arcade](https://github.com/justdev-chris/Pixel-ArcadeV5)**  
   A project I made with a proxy, movies, and games. Didn't really go out that much. 
 
 
@@ -35,7 +35,7 @@ Welcome to my little corner of GitHub! I’m all about making cool, quirky proje
 
 ---
 
-## Fun Fact
+## 1 Random Thing to say
 
 > I mix gaming and coding but gets messy but somehow it works.  
 
