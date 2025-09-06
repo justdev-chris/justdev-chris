@@ -4,9 +4,7 @@ i make web games, apps, and other creative projects.
 mostly working with HTML, CSS, JavaScript, and Node.js.
 sometimes   
 
-
 building stuff just for fun or to learn something new.
-
 
 omg im learning php since its very op lol
 
