@@ -15,4 +15,4 @@ omg im learning php since its very op lol
 
 ## more projects are below 👇
 
-[https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris]
+[[https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris](https://github-readme-stats-sv1x.vercel.app/api?username=justdev-chris)]
