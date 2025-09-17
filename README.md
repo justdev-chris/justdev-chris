@@ -14,3 +14,5 @@ omg im learning php since its very op lol
                                                                                                                                                                             also check out my website [catsdevs.online](https://catsdevs.online/)
 
 ## more projects are below 👇
+
+[https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris]
