@@ -15,5 +15,5 @@ omg im learning php since its very op lol
 
 ## more projects are below 👇
 
-[![Chris's GitHub stats](https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris)](https://github.com/anuraghazra/github-readme-stats)
-
+[[![Chris's GitHub stats](https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris)](https://github.com/anuraghazra/github-readme-stats)
+](https://github-readme-stats-sv1x.vercel.app/api?username=justdev-chris)
