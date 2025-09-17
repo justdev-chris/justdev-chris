@@ -13,7 +13,6 @@ omg im learning php since its very op lol
                                                                                                                                                                             \
                                                                                                                                                                             also check out my website [catsdevs.online](https://catsdevs.online/)
 
-## more projects are below 👇
+## more projects are here 👉 [my projects](https://github.com/justdev-chris?tab=repositories)
 
-[[![Chris's GitHub stats](https://github-readme-stats-ten-xi-62.vercel.app/api?username=justdev-chris)](https://github.com/anuraghazra/github-readme-stats)
-](https://github-readme-stats-sv1x.vercel.app/api?username=justdev-chris)
+
