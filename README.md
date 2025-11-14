@@ -4,7 +4,7 @@ i make web games, apps, and other creative projects.
 mostly working with HTML, CSS, JavaScript, and Node.js.
 sometimes   
 
-i am learning new languages like C#, check out my new project built in C# NekoMonitor!
+i am learning new languages like C#, check out my new project built in C# PawCraft!
 
 building stuff just for fun or to learn something new.
 
