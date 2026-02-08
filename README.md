@@ -4,7 +4,7 @@ i make web games, apps, and other creative projects.
 mostly working with HTML, CSS, JavaScript, and Node.js.
 sometimes   
 
-i am learning new languages like C#, check out my new project built in C# PawCraft!
+i am learning new languages like C#, and building my own programming language, check out Lynx!
 
 building stuff just for fun or to learn something new.
 
