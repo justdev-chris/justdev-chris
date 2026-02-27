@@ -1,10 +1,10 @@
 ## hey, i’m justdev-chris 👋
 
 i make web games, apps, and other creative projects.  
-mostly working with HTML, CSS, JavaScript, and Node.js.
-sometimes   
+mostly working with C, HTML, Python, and C#.
+   
 
-i am learning new languages like C#, and building my own programming language, check out Lynx!
+i am learning new languages like C and C++, and building my own programming language, check out Lynx!
 
 building stuff just for fun or to learn something new.
 
