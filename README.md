@@ -1,5 +1,7 @@
 # hey, i'm justdev-chris 👋
 
+![neko vibes](https://tenor.com/bUC8M.gif)
+
 **13yo catboy developer** • he/him • aromantic  
 building web games, apps, visualizers, and cursed programming languages.
 
@@ -7,11 +9,11 @@ building web games, apps, visualizers, and cursed programming languages.
 - **audio visualization** → NekoBeats V2 (real-time music visualizer with neon sci-fi UI)
 - **game dev** → web games on itch.io, reverse engineering sum games (NekoMenu)
 - **systems programming** → kernel exploration, VST plugins, custom languages
-- **web stuff** → portfolio sites,tools, interactive experiences
+- **web stuff** → portfolio sites, streaming tools, interactive experiences
 
 ## languages i speak
-C • C++ • C# • Python • JavaScript • Assembly   
-(learning: C++ (still), more C, and kernel stuff)
+C • C++ • C# • Python • JavaScript • Assembly • Lua  
+(learning: more C, more C++, and more kernel stuff)
 
 ## current projects
 - **NekoBeats V2** - Audio visualizer w/ bar themes, bloom effects, streaming mode
