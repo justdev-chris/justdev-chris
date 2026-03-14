@@ -1,20 +1,32 @@
-## hey, i’m justdev-chris 👋
+# hey, i'm justdev-chris 👋
 
-i make web games, apps, and other creative projects.  
-mostly working with C, HTML, Python, and C#.
-   
+**13yo catboy developer** • he/him • aromantic  
+building web games, apps, visualizers, and cursed programming languages.
 
-i am learning new languages like C and C++, and building my own programming language, check out Lynx!
+## what i do
+- **audio visualization** → NekoBeats V2 (real-time music visualizer with neon sci-fi UI)
+- **game dev** → web games on itch.io, reverse engineering sum games (NekoMenu)
+- **systems programming** → kernel exploration, VST plugins, custom languages
+- **web stuff** → portfolio sites,tools, interactive experiences
 
-building stuff just for fun or to learn something new.
+## languages i speak
+C • C++ • C# • Python • JavaScript • Assembly   
+(learning: C++ (still), more C, and kernel stuff)
 
-all my projects are under MIT license except a few which have custom ones. im lazy to put mit license on all my projects sorry
+## current projects
+- **NekoBeats V2** - Audio visualizer w/ bar themes, bloom effects, streaming mode
+- **Lynx** - Custom programming language (work in progress)
+- **PawNix** - Linux kernel experiments
+- **NekoOS** - Custom OS project
+- **catsdevs.online** - Portfolio with video background & crimson aesthetic
 
+## find me
+🎮 games: [itch.io](https://justdev-chris.itch.io/)  
+🌐 portfolio: [catsdevs.online](https://catsdevs.online/)  
+💻 all projects: [repositories](https://github.com/justdev-chris?tab=repositories)  
+🐱 elsewhere: TikTok (@chrisdevsalot) • Instagram (@chrisdevsalot)
 
-🎮 check out my games on [itch.io](https://justdev-chris.itch.io/)
-                                                                                                                                                                            \
-                                                                                                                                                                            also check out my website [catsdevs.online](https://catsdevs.online/)
+## vibes
+code by day, exist by night. MIT licensed (mostly). built with caffeine & vibes.
 
-## more projects are here 👉 [my projects](https://github.com/justdev-chris?tab=repositories)
-
-
+*the kitty codes, therefore he is*
