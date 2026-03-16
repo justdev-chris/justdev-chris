@@ -1,7 +1,7 @@
 # hey, i'm justdev-chris 👋
 
 <p align="center">
-  <img src="https://tenor.com/bUC8M.gif" height="100">
+  <img src="bUC8M.gif" height="100">
 
 **a catboy developer** • he/him • aromantic  
 building web games, apps, visualizers, and cursed programming languages.
