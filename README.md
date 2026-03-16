@@ -1,8 +1,9 @@
 # hey, i'm justdev-chris 👋
 
-![neko vibes](https://tenor.com/bUC8M.gif)
+<p align="center">
+  <img src="https://tenor.com/bUC8M.gif" height="100">
 
-**13yo catboy developer** • he/him • aromantic  
+**a catboy developer** • he/him • aromantic  
 building web games, apps, visualizers, and cursed programming languages.
 
 ## what i do
