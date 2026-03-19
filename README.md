@@ -33,3 +33,6 @@ C • C++ • C# • Python • JavaScript • Assembly • Lua
 code by day, exist by night. MIT licensed (mostly). built with caffeine & vibes.
 
 *the kitty codes, therefore he is*
+
+## my github stats cuz why not
+[![chris stats](https://github.catdevs.online/api?username=justdev-chris)](https://github.com/justdev-chris
